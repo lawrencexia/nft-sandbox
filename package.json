@@ -1,0 +1,19 @@
+{
+  "name": "nft-sandbox",
+  "version": "1.0.0",
+  "description": "Sandbox NFT project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawrencexia/nft-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lawrencexia/nft-sandbox/issues"
+  },
+  "homepage": "https://github.com/lawrencexia/nft-sandbox#readme"
+}
